@@ -16,7 +16,6 @@ function makeconnection()
 	}
 	return $cn;
 }
-
 $cn=mysqli_connect("localhost","root","","travel");
 ?>
 </body>
